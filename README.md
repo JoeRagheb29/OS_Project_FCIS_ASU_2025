@@ -1,4 +1,4 @@
-# FOS Project 2025 - Professional README
+# FOS Project 2025 - README
 
 ## Project Overview
 
